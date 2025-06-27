@@ -10,3 +10,5 @@ okay, i think i got the idea of vs code git integration
 adding another line to understand better
 <br>
 trying git status
+<br>
+adding another line to see branch is ahead by 1 commit
